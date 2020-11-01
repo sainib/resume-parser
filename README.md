@@ -112,3 +112,4 @@ curl --request POST 'http://localhost:8081/upload' \
 - GATE (https://gate.ac.uk/) - Open source language processing framework.
 - https://gate.ac.uk/sale/tao/splitch5.html#x8-820005.3
 - https://en.wikipedia.org/wiki/JAPE_(linguistics)
+- https://gate.ac.uk/sale/thakker-jape-tutorial/GATE%20JAPE%20manual.pdf
